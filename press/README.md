@@ -33,6 +33,4 @@ App icon, high-resolution screenshots, and a short demo clip are available on re
 
 ---
 
-*Omnisound is an independent app inspired by classic electronic chord instruments; it is not affiliated with, endorsed by, or associated with Suzuki or any other manufacturer.*
-
 © 2026 Konstantin Schütz · [Support & Home](../README.md) · [Privacy Policy](../PRIVACY.md)
